@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">meme arcrane</string>
+    <string name="question_text">Placeholder for the first question...</string>
+
+    <string name="next_button">next</string>
+    <string name="check_button">check</string>
+
+    <string name="question_1">What meme is this?</string>
+    <string name="question_1_hint">this meme game out in 2018</string>
+    <string-array name="question_1_answers">
+        <item>Bongo Cat</item>
+        <item>Dr.Phil M an M</item>
+        <item>Area 51</item>
+    </string-array>
+
+    <string name="question_2">What meme is this?</string>
+    <string name="question_2_hint">just look at the guy</string>
+    <string-array name="question_2_answers">
+        <item>gif</item>
+        <item>when you realize you have school this monday </item>
+        <item>newthatoneguy</item>
+    </string-array>
+
+    <string name="question_3">What meme is this?</string>
+    <string name="question_3_hint">E.A(video game company)</string>
+    <string-array name="question_3_answers">
+        <item>check this out</item>
+        <item>praise the sun</item>
+        <item>Keanu Reeves</item>
+    </string-array>
+
+    <string name="question_4">What meme is this?</string>
+    <string name="question_4_hint">jojo reference</string>
+    <string-array name="question_4_answers">
+        <item>blue clues</item>
+        <item>pillar men</item>
+        <item>world is flat</item>
+    </string-array>
+
+    <string name="question_5">What meme is this?</string>
+    <string name="question_5_hint">love spread all around</string>
+    <string-array name="question_5_answers">
+        <item>wholesome</item>
+        <item>Stranger Things theme</item>
+        <item>Dungeon and Dragons</item>
+    </string-array>
+
+</resources>
